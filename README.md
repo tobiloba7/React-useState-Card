@@ -1,1 +1,1 @@
-## React useState Practice with building a dynamic card that changes it's contents on click
+## React useState Practice: Building a dynamic card that changes it's contents on click
