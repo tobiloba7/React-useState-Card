@@ -55,13 +55,13 @@ function App() {
               style={{ backgroundColor: "#CA6702", color: "#fff" }}
               onClick={handlePrevious}
             >
-              previous
+              Previous
             </button>
             <button
               style={{ backgroundColor: "#CA6702", color: "#fff" }}
               onClick={handleNext}
             >
-              next
+              Next
             </button>
           </div>
         </div>
